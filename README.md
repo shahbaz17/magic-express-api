@@ -1,5 +1,11 @@
 # Node APIs secured by Magic
 
+## What is Magic?
+
+[Magic](https://magic.link) is a plug and play SDK that enables passwordless authentication using magic links, social logins and webauthn.
+
+[Docs](https://docs.magic.link/)
+
 ## Quickstart Instructions
 
 ```bash
