@@ -4,8 +4,7 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"api": "node index.js",
-		"rest-api": "node rest.js"
+		"start": "node index.js"
 	},
 	"keywords": [],
 	"author": "Mohammad Shahbaz Alam",
